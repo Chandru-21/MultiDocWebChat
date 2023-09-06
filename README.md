@@ -26,3 +26,5 @@ II) News Query via SERPAPI:
   Users can upload PDFs and engage in discussions with the bot, gaining quick access to insights and answers.
   Additionally, the bot's integration with SERPAPI extends its capabilities to provide real-time news and information, making it a valuable tool for both document analysis and staying updated on current events.
 
+ Prerequisites: OpenAI key,SerpAPI key.
+
