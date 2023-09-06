@@ -1,4 +1,4 @@
-![image](https://github.com/Chandru-21/MultiDocWebChat/assets/64595758/95e855c3-04f0-44dd-9ee9-9bbb6b134b14)## MultiDocWebChat
+## MultiDocWebChat
 
 MultiDocWebchat is a versatile web application that enables users to upload multiple PDF documents and interact with them in two primary ways:
 
