@@ -1,4 +1,4 @@
-## GenAI- MultiDocWebChat
+## RAG-GenAI- MultiDocWebChat
 
 MultiDocWebchat is a versatile web application that enables users to upload multiple PDF documents and interact with them in two primary ways:
 
